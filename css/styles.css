@@ -1,5 +1,5 @@
-<style>
-
+style
+*
         a {
             text-decoration: none;
         }
@@ -23,24 +23,13 @@
             .nav-dlm    {
                 flex-direction: row;
                 justify-content: space-around;
-
+               }
             }
 
         @media screen and (min-width: 1200px) {
-                .nav-dlm    {
-                    flex-direction: row;
-                    justify-content: flex-end;
+            .nav-dlm    {
+                flex-direction: row;
+                justify-content: flex-end;
                 }
-        }
+            }
             
-            
-            
-        
-            
-        
-
-        
-
-        
-
-    </style>
